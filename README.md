@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">{Your project name}</h1>
+<h1 align="center">Interior Responsive using Bootstrap</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -41,17 +41,20 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+   [Here]()
 - What was your experience?
+   * I decided to use a framework although it was faster I do prefer sticking to pure HTML & CSS for now as I'm still learning.
 - What have you learned/improved?
+   * I solidified my foundation on bootstrap columns and rows. 
 - Your wisdom? :)
-
+   - Practice, practice and then practice some more.
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [Bootstrap](https://getbootstrap.com/)
+- HTML & CSS
+
 
 ## Features
 
@@ -69,6 +72,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [ndflow.com](https://ndflow.com)
+- GitHub [@xn3e45](https://github.com/xn3e45)
